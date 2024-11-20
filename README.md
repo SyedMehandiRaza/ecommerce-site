@@ -1,6 +1,6 @@
 1. ECommerce
-A short, descriptive title for the project.
-Example: Product Listing Application
+[**View Live Demo**] https://673dd2883496b5827f30c3c2--adorable-kangaroo-0e19a8.netlify.app/
+This is a React-based product listing application that allows users to view products fetched from an API. It supports sorting by price and dynamically loading products upon clicking a button.
 
 2. Technologies Used
 List the technologies, libraries, and frameworks you used to build the application.
